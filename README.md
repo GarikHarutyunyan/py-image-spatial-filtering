@@ -56,3 +56,6 @@ To run this project, ensure you have the following installed:
    ```bash
    python main.py
 
+**Screenshot:**
+
+![Example](/screenshot.png)
